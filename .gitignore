@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.ipynb_checkpoints
+data/raw/
+data/cleaned/
+models/
+.DS_Store
+*.sqlite
+*.db

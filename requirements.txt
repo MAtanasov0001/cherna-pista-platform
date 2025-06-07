@@ -1,0 +1,10 @@
+pandas
+geopandas
+scikit-learn
+xgboost
+fastapi
+uvicorn
+psycopg2-binary
+shapely
+folium
+matplotlib
